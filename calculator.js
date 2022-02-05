@@ -21,10 +21,6 @@ let loanAmountTarget = document.getElementById('loan-amount');
 let loanYearsTarget = document.getElementById('loan-years');
 let yearlyRatesTarget = document.getElementById('loan-rate');
 
-let loanAmountValu = loanAmountTarget.value;
-let loanYearsValue = loanYearsTarget.value;
-let yearlyRatesValue = yearlyRatesTarget.value;
-
 
 // Get the inputs from the DOM.
 // Put some default values in the inputs
